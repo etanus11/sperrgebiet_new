@@ -18,9 +18,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Sperrgebiet Namibia
+title: Sperrgebiet in the Namib Desert
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Photos of the Sperrgebiet
+tagline: Photos of the Sperrgebiet in the Namib Desert
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Photographs by Edda Schoedder of the Sperrgebiet in Namibia"
@@ -45,7 +45,7 @@ metadata: sperrgebiet_new
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
