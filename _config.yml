@@ -31,7 +31,8 @@ author: Renate Morgenstern
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
 ## metadata: demo-database
-metadata: metadata-template
+##metadata: metadata-template
+metadata: Update collectionbuilder-metadata-template - Sheet
 
 ##########
 # GOOGLE SERVICES [optional!]
