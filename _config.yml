@@ -32,7 +32,7 @@ author: Renate Morgenstern
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
 ## metadata: demo-database
 ##metadata: metadata-template
-metadata: Update collectionbuilder-metadata-template - Sheet
+metadata: sperrgebiet_new
 
 ##########
 # GOOGLE SERVICES [optional!]
@@ -45,7 +45,7 @@ metadata: Update collectionbuilder-metadata-template - Sheet
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-noindex: true 
+# noindex: true 
 
 ##########
 # BUILD SETTINGS 
