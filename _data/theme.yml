@@ -20,7 +20,7 @@ carousel-height: 300
 featured-subjects: # separate by semi-colon(';')
 featured-subjects-max: 5 # set number of top subjects to display if auto generating
 # Same as subjects above. Leave blank for automatically generated locations. Or add locations you'd like to feature. For list see data/places.csv
-featured-locations: Elisabeth Bay; Charlottental; # separate by semi-colon(';') 
+featured-locations: Maltahöhe; Ukamas; Sossusvlei; Namib; Dicke Wilhelm; # separate by semi-colon(';') 
 featured-locations-max: 3 # set number of top locations to display if auto generating
 
 ##########
@@ -46,7 +46,7 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 #
 subjects-fields: subject;creator # set the field to be featured in the cloud (if left blank, none will be generated)
 subjects-min: 5 # min size for subject cloud, too many terms = slow load time!
-subjects-stopwords: desert;Sperrgebiet # set of subjects separated by ;, e.g. boxers;boxing
+subjects-stopwords: desert;Sperrgebiet; # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
 # LOCATIONS PAGE
